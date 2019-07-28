@@ -5,15 +5,16 @@
   <!-- meta -->
   <meta charset="utf-8" />
   <script type="text/javascript">
-    document.getElementById("redirect_btn").onclick = function ()
+    function redirect()
     {
-      location.href = "https://github.com/uyoung-jeong/uyoung-jeong.github.io";
-    };
+      var repo_url = "https://github.com/uyoung-jeong/uyoung-jeong.github.io";
+      window.location(url);
+    }
   </script>
 </head>
 <body>
   <form>
-    <button id="redirect_btn">Go to Github repo page</button>
+    <button id="redirect_btn" onclick="redirect()">Go to Github repo page</button>
   </form>
   <!--<img src = "https://drive.google.com/uc?export=view&id=1sVwIsAds5kpvzvYkK8jSZVBpb83FUb8J">-->
   <h1>Uyoung Jeong</h1>
