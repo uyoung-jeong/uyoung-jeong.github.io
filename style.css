@@ -1,0 +1,37 @@
+header {
+  /*background-color: gray; */
+}
+
+button.btn-external {
+  padding: 5px 13px;
+  border: 1px solid;
+  trainsition-duration: 0.3s;
+  backbround-color:ghostwhite;
+}
+
+button.btn-external:hover {
+  background-color: lightgray;
+}
+
+div.main-div {
+  margin-left: 10px;
+}
+
+h1.main-title {
+  font-size:200%;
+}
+
+h2.main-subtitle {
+  font-size:150%;
+}
+ul.main-list {
+
+}
+
+li.main-list-item {
+
+}
+
+li.main-list-item2 {
+
+}
