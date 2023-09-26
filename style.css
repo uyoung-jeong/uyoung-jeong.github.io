@@ -1,21 +1,21 @@
 body {
-  padding: 1em;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%)
 }
 
 header {
   /*background-color: gray; */
 }
 
+.section-container{
+  height:100vh;
+  display: flex;
+  justify-content: center;
+}
+
 button.btn-external {
   padding: 5px 13px;
   border: 1px solid;
-  trainsition-duration: 0.3s;
-  backbround-color:ghostwhite;
+  transition-duration: 0.3s;
+  background-color:ghostwhite;
 }
 
 button.btn-external:hover {
