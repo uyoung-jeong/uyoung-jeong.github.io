@@ -2,13 +2,17 @@ body {
 }
 
 header {
-  /*background-color: gray; */
+  height: 40px;
+  background-color: #44C1C4;
+  margin-bottom: 5px;
 }
 
-.section-container{
-  height:100vh;
+.main-container{
+  /*height:100vh;*/
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  /*justify-content: center;*/
+  /*align-items: center;*/
 }
 
 button.btn-external {
@@ -20,10 +24,6 @@ button.btn-external {
 
 button.btn-external:hover {
   background-color: lightgray;
-}
-
-div.main-div {
-  margin-left: 10px;
 }
 
 h1.main-title {
