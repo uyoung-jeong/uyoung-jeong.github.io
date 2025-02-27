@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 title: "Uyoung Jeong (정우영)"
 hidden: true
-last_modified_at: 2024-07-03T09:56:00+09:00
+last_modified_at: 2025-02-27T17:00:00+09:00
 excerpt: >
   PhD student at Artificial Intelligence Graduate School, UNIST, South Korea.
 sidebar:
@@ -20,12 +20,19 @@ sidebar:
 Deep learning and computer vision tasks, including human pose estimation and human mesh recovery.
 
 ## Publications
+- PoseBH: Propotypical Multi-Dataset Training Beyond Human Pose Estimation
+  : **Uyoung Jeong**, Jonathan Freer, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
+  : CVPR 2025 (accepted)
+
 - BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation
   : **Uyoung Jeong**, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
   : BMVC 2023
   : [arxiv](https://arxiv.org/abs/2309.14072) [code](https://github.com/uyoung-jeong/BoIR)
 
 ## Research Experience
+- Research intern at University of Birmingham (Prof. Hyung Jin Chang)
+  : Duration: 2024. 09 ~ 2024. 12
+  : Topic: Human pose estimation
 - PhD course at UVL Lab, UNIST (Prof. Seungryul Baek)
   : Duration: 2024. 01 ~ 
   : Topic: Computer vision, especially human pose estimation
