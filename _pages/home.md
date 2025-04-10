@@ -17,10 +17,10 @@ sidebar:
 - github: <https://github.com/uyoung-jeong>
 
 ## Research Interests
-Deep learning and computer vision tasks, including human pose estimation and human mesh recovery.
+Human-centric deep learning and computer vision tasks, including human/hand pose estimation, human/hand mesh reconstruction, and human/hand generation.
 
 ## Publications
-- PoseBH: Propotypical Multi-Dataset Training Beyond Human Pose Estimation
+- PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation
   : **Uyoung Jeong**, Jonathan Freer, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
   : CVPR 2025 (accepted)
 
@@ -30,7 +30,7 @@ Deep learning and computer vision tasks, including human pose estimation and hum
   : [arxiv](https://arxiv.org/abs/2309.14072) [code](https://github.com/uyoung-jeong/BoIR)
 
 ## Research Experience
-- Research intern at University of Birmingham (Prof. Hyung Jin Chang)
+- Visiting Research student at University of Birmingham (Prof. Hyung Jin Chang)
   : Duration: 2024. 09 ~ 2024. 12
   : Topic: Human pose estimation
 - PhD course at UVL Lab, UNIST (Prof. Seungryul Baek)
