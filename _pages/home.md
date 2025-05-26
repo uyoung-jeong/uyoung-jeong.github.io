@@ -15,6 +15,7 @@ sidebar:
 ## Contact
 - E-mail: jeong.uyoung (at) unist.ac.kr
 - github: <https://github.com/uyoung-jeong>
+- linkedin: <https://www.linkedin.com/in/uyoung-jeong>
 
 ## Research Interests
 Human-centric deep learning and computer vision tasks, including human/hand pose estimation, human/hand mesh reconstruction, and human/hand generation.
@@ -23,7 +24,7 @@ Human-centric deep learning and computer vision tasks, including human/hand pose
 - PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation
   : **Uyoung Jeong**, Jonathan Freer, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
   : CVPR 2025 (accepted)
-  : []() [code](https://github.com/uyoung-jeong/PoseBH)
+  : [arxiv](https://arxiv.org/abs/2505.17475) [code](https://github.com/uyoung-jeong/PoseBH)
 
 - BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation
   : **Uyoung Jeong**, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
