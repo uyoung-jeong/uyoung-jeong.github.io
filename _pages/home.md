@@ -3,9 +3,9 @@ layout: splash
 permalink: /
 title: "Uyoung Jeong (정우영)"
 hidden: true
-last_modified_at: 2025-02-27T17:00:00+09:00
+last_modified_at: 2025-09-18T17:00:00+09:00
 excerpt: >
-  PhD student at Artificial Intelligence Graduate School, UNIST, South Korea.
+  Postdoc researcher at UNIST, South Korea.
 sidebar:
     nav: "sidebar-category"
 ---
@@ -17,21 +17,23 @@ sidebar:
 - github: <https://github.com/uyoung-jeong>
 - linkedin: <https://www.linkedin.com/in/uyoung-jeong>
 
+## Short Bio
+I am a postdoctoral researcher at UNIST Vision and Learning Lab (UVLL), UNIST. 
+I received Ph.D. from UNIST at 2025, under Prof. Kwang In Kim and Prof. Seungryul Baek.
+I received M.S. and B.S. degrees from UNIST.
+
 ## Research Interests
 Human-centric deep learning and computer vision tasks, including human/hand pose estimation, human/hand mesh reconstruction, and human/hand generation.
 
-## Publications
-- PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation
-  : **Uyoung Jeong**, Jonathan Freer, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
-  : CVPR 2025 (accepted)
-  : [arxiv](https://arxiv.org/abs/2505.17475) [code](https://github.com/uyoung-jeong/PoseBH)
+## Education
+- Ph.D. in Artificial Intelligence, UNIST, South Korea (2025. 08)
+- M.S. in Computer Science and Engineering, UNIST, South Korea (2021. 08)
+- B.S. in Computer Science and Engineering, UNIST, South Korea (2019. 08)
 
-- BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation
-  : **Uyoung Jeong**, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
-  : BMVC 2023
-  : [arxiv](https://arxiv.org/abs/2309.14072) [code](https://github.com/uyoung-jeong/BoIR)
-
-## Research Experience
+## Experiences
+- PostDoc researcher at UVL Lab, UNIST (Prof. Seungryul Baek)
+  : Duration: 2025. 10 ~
+  : Topic: hand-object interaction generation
 - Visiting research student at University of Birmingham (Prof. Hyung Jin Chang)
   : Duration: 2024. 09 ~ 2024. 12
   : Topic: Human pose estimation
@@ -60,6 +62,15 @@ Human-centric deep learning and computer vision tasks, including human/hand pose
   : Duration: 2017. 09 ~ 2017. 12
   : Topic: NLP, especially Question Answering
 
-## Education
-- M.S. in Computer Science and Engineering, UNIST, South Korea(2021. 08)
-- B.S. in Computer Science and Engineering, UNIST, South Korea(2019. 08)
+
+## Publications
+- PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation
+  : **Uyoung Jeong**, Jonathan Freer, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
+  : CVPR 2025 (accepted)
+  : [arxiv](https://arxiv.org/abs/2505.17475) [code](https://github.com/uyoung-jeong/PoseBH)
+
+- BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation
+  : **Uyoung Jeong**, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
+  : BMVC 2023
+  : [arxiv](https://arxiv.org/abs/2309.14072) [code](https://github.com/uyoung-jeong/BoIR)
+
