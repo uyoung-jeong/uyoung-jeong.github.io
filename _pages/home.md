@@ -19,7 +19,7 @@ sidebar:
 
 ## Short Bio
 I am a postdoctoral researcher at UNIST Vision and Learning Lab (UVLL), UNIST. 
-I received Ph.D. from UNIST at 2025, under Prof. Kwang In Kim and Prof. Seungryul Baek.
+I received Ph.D. from UNIST in 2025, under Prof. Kwang In Kim and Prof. Seungryul Baek.
 I received M.S. and B.S. degrees from UNIST.
 
 ## Research Interests
