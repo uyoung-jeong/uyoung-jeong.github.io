@@ -13,7 +13,7 @@ sidebar:
 # Uyoung Jeong (정우영)
 
 ## Contact
-- E-mail: jeong.uyoung (at) unist.ac.kr
+- E-mail: jeonguyoung (at) unist.ac.kr
 - github: <https://github.com/uyoung-jeong>
 - linkedin: <https://www.linkedin.com/in/uyoung-jeong>
 
