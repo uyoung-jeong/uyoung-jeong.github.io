@@ -11,7 +11,6 @@ sidebar:
 ---
 
 # Uyoung Jeong (정우영)
-<img src="/assets/images/profile.jpg" width="354">
 <div style="display: flex; align-items: flex-start;">
 <div style="flex: 1;">
 ## Contact
@@ -20,7 +19,7 @@ sidebar:
 * <i class="fab fa-linkedin fa-fw"></i> linkedin: <https://www.linkedin.com/in/uyoung-jeong>
 </div>
 
-<div style="flex: 0 0 354px; margin-left: 20px;">
+<div style="flex: 0 0 256px; margin-left: 20px;">
 <img src="/assets/images/profile.jpg" alt="Profile Picture" style="width: 100%; height: auto; border-radius: 5px;">
 </div>
 </div>
