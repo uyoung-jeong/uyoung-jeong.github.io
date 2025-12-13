@@ -9,10 +9,9 @@ excerpt: >
 sidebar:
     nav: "sidebar-category"
 ---
+<img src="/assets/images/profile.jpg" class="align-right" width="224" style="margin-left: 20px;" alt="profile">
 
 # Uyoung Jeong (정우영)
-
-<img src="/assets/images/profile.jpg" class="align-right" width="224" style="margin-left: 20px;" alt="profile">
 
 ## Contact
 * <i class="fas fa-envelope fa-fw"></i> E-mail: jeonguyoung (at) unist.ac.kr
