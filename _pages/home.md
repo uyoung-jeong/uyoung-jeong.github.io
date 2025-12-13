@@ -12,11 +12,18 @@ sidebar:
 
 # Uyoung Jeong (정우영)
 <img src="/assets/images/profile.jpg" width="354">
-
+<div style="display: flex; align-items: flex-start;">
+<div style="flex: 1;">
 ## Contact
-- E-mail: jeonguyoung (at) unist.ac.kr
-- github: <https://github.com/uyoung-jeong>
-- linkedin: <https://www.linkedin.com/in/uyoung-jeong>
+* <i class="fas fa-envelope fa-fw"></i> E-mail: jeonguyoung (at) unist.ac.kr
+* <i class="fab fa-github fa-fw"></i> github: <https://github.com/uyoung-jeong>
+* <i class="fab fa-linkedin fa-fw"></i> linkedin: <https://www.linkedin.com/in/uyoung-jeong>
+</div>
+
+<div style="flex: 0 0 354px; margin-left: 20px;">
+<img src="/assets/images/profile.jpg" alt="Profile Picture" style="width: 100%; height: auto; border-radius: 5px;">
+</div>
+</div>
 
 ## Short Bio
 I am a postdoctoral researcher at UNIST Vision and Learning Lab (UVLL), UNIST. 
@@ -39,10 +46,10 @@ Human-centric deep learning and computer vision tasks, including human/hand pose
   : Duration: 2024. 09 ~ 2024. 12
   : Topic: Human pose estimation
 - PhD course at UVL Lab, UNIST (Prof. Seungryul Baek)
-  : Duration: 2024. 01 ~ 
+  : Duration: 2024. 01 ~ 2025. 08. 22
   : Topic: Computer vision, especially human pose estimation
 - PhD course at MLV Lab, POSTECH (Prof. Kwang In Kim)
-  : Duration: 2023. 03 ~ 
+  : Duration: 2023. 03 ~ 2025. 08. 22
   : Topic: Computer vision, especially human pose estimation
 - PhD course at MLV Lab, UNIST (Prof. Kwang In Kim)
   : Duration: 2021. 08 ~ 2023. 03
