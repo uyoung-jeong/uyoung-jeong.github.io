@@ -11,6 +11,7 @@ sidebar:
 ---
 
 # Uyoung Jeong (정우영)
+<img src="/assets/images/profile.jpg" width="354">
 
 ## Contact
 - E-mail: jeonguyoung (at) unist.ac.kr
