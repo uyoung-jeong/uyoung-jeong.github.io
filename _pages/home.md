@@ -11,18 +11,13 @@ sidebar:
 ---
 
 # Uyoung Jeong (정우영)
-<div style="display: flex; align-items: flex-start;">
-<div style="flex: 1;">
+
+<img src="/assets/images/profile.jpg" class="align-right" width="224" style="margin-left: 20px;" alt="profile">
+
 ## Contact
 * <i class="fas fa-envelope fa-fw"></i> E-mail: jeonguyoung (at) unist.ac.kr
 * <i class="fab fa-github fa-fw"></i> github: <https://github.com/uyoung-jeong>
 * <i class="fab fa-linkedin fa-fw"></i> linkedin: <https://www.linkedin.com/in/uyoung-jeong>
-</div>
-
-<div style="flex: 0 0 256px; margin-left: 20px;">
-<img src="/assets/images/profile.jpg" alt="Profile Picture" style="width: 100%; height: auto; border-radius: 5px;">
-</div>
-</div>
 
 ## Short Bio
 I am a postdoctoral researcher at UNIST Vision and Learning Lab (UVLL), UNIST. 
