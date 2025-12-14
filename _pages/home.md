@@ -9,7 +9,7 @@ excerpt: >
 sidebar:
     nav: "sidebar-category"
 ---
-<img src="/assets/images/profile.jpg" class="align-right" width="224" style="margin-left: 20px;" alt="profile">
+<img src="/assets/images/profile.png" class="align-right" width="224" style="margin-left: 20px;" alt="profile">
 
 # Uyoung Jeong (정우영)
 
