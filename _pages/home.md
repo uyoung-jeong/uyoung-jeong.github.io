@@ -17,6 +17,7 @@ sidebar:
 * <i class="fas fa-envelope fa-fw"></i> E-mail: jeonguyoung (at) unist.ac.kr
 * <i class="fab fa-github fa-fw"></i> github: <https://github.com/uyoung-jeong>
 * <i class="fab fa-linkedin fa-fw"></i> linkedin: <https://www.linkedin.com/in/uyoung-jeong>
+* <i class="fas fa-file-pdf fa-fw"></i> CV: [Download](/assets/files/CV.pdf)
 
 ## Short Bio
 I am a postdoctoral researcher at UNIST Vision and Learning Lab (UVLL), UNIST. 
