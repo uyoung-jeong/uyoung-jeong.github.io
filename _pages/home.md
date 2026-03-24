@@ -32,7 +32,7 @@ Robotic vision tasks, including dexterous robot hand detection and pose estimati
 
 ## Publications
 - THOM: Generating Physically Plausible Hand-Object Meshes From Text
-  : **Uyoung Jeong**, Yihalem Yimolal Tiruneh, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
+  : **Uyoung Jeong**, Yihalem Yimolal Tiruneh, Hyung Jin Chang, Seungryul Baek, Kwang In Kim
   : CVPR 2026 Findings (accepted)
   : [arxiv](coming soon) [code](https://github.com/uyoung-jeong/THOM_Release)
 
