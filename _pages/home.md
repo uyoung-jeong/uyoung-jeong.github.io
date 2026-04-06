@@ -34,7 +34,7 @@ Robotic vision tasks, including dexterous robot hand detection and pose estimati
 - THOM: Generating Physically Plausible Hand-Object Meshes From Text
   : **Uyoung Jeong**, Yihalem Yimolal Tiruneh, Hyung Jin Chang, Seungryul Baek, Kwang In Kim
   : CVPR 2026 Findings (accepted)
-  : [arxiv](coming soon) [code](https://github.com/uyoung-jeong/THOM_Release)
+  : [arxiv](https://arxiv.org/abs/2604.02736) [code](https://github.com/uyoung-jeong/THOM_Release)
 
 - PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation
   : **Uyoung Jeong**, Jonathan Freer, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
