@@ -47,21 +47,20 @@ Robotic vision tasks, including dexterous robot hand detection and pose estimati
   : [arxiv](https://arxiv.org/abs/2309.14072) [code](https://github.com/uyoung-jeong/BoIR)
 
 
-## Experiences
-- PostDoc researcher at UVL Lab, UNIST (Prof. Seungryul Baek)
+## Professional Experiences
+- Postdoctoral researcher at UVL Lab, UNIST (Prof. Seungryul Baek)
   : Duration: 2025. 10 ~
   : Topic: hand-object interaction generation, dexterous robot hand detection and pose estimation
 - Visiting research student at University of Birmingham (Prof. Hyung Jin Chang)
   : Duration: 2024. 09 ~ 2024. 12
   : Topic: Human pose estimation
+
+## Research Experiences
 - PhD course at UVL Lab, UNIST (Prof. Seungryul Baek)
   : Duration: 2024. 01 ~ 2025. 08. 22
   : Topic: Computer vision, especially human pose estimation
-- PhD course at MLV Lab, POSTECH (Prof. Kwang In Kim)
-  : Duration: 2023. 03 ~ 2025. 08. 22
-  : Topic: Computer vision, especially human pose estimation
 - PhD course at MLV Lab, UNIST (Prof. Kwang In Kim)
-  : Duration: 2021. 08 ~ 2023. 03
+  : Duration: 2021. 08 ~ 2025. 08. 22
   : Topic: Computer vision, especially human pose estimation
 - Master's course at MLV Lab, UNIST (Prof. Kwang In Kim)
   : Duration: 2019. 07 ~ 2021. 08
