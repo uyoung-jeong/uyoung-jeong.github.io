@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 title: "Uyoung Jeong (정우영)"
 hidden: true
-last_modified_at: 2026-03-19T17:00:00+09:00
+last_modified_at: 2026-06-23T17:00:00+09:00
 excerpt: >
   Postdoc researcher at UNIST, South Korea.
 sidebar:
@@ -31,9 +31,13 @@ Robotic vision tasks, including dexterous robot hand detection and pose estimati
 
 
 ## Publications
+- FlexiAvatar: Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility
+  : Yihalem Yimolal Tiruneh, Muhammad Salman Ali, **Uyoung Jeong**, Muneeb A. Khan, MD Khalequzzaman Chowdhury Sayem, Allanur Bayramgeldiyev, Binod Bhattarai, Seungryul Baek
+  : ECCV 2026 (accepted)
+
 - THOM: Generating Physically Plausible Hand-Object Meshes From Text
   : **Uyoung Jeong**, Yihalem Yimolal Tiruneh, Hyung Jin Chang, Seungryul Baek, Kwang In Kim
-  : CVPR 2026 Findings (accepted)
+  : CVPR 2026 Findings
   : [arxiv](https://arxiv.org/abs/2604.02736) [code](https://github.com/uyoung-jeong/THOM_Release) [project](https://uyoung-jeong.github.io/THOM_Project/)
 
 - PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation
