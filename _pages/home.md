@@ -110,7 +110,7 @@ BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation
 
 ## Personal Projects
 <div style="display: flex; flex-wrap: wrap; gap: 1em; align-items: flex-start;">
-<img src="/assets/images/2026_sd3.5_handpose_controlnet_thumbnail.png" width="240" alt="SD3.5-handpose-controlnet teaser">
+<img src="/assets/images/2026_sd35_handposectrl.png" width="240" alt="SD35-handpose-controlnet teaser">
 <div style="flex: 1 1 320px;" markdown="1">
 SD3.5 Hand Pose ControlNet
 : [code](https://github.com/uyoung-jeong/sd3.5_handpose_controlnet)
