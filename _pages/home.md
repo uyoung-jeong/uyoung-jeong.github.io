@@ -31,25 +31,45 @@ Robotic vision tasks, including dexterous robot hand detection and pose estimati
 
 
 ## Publications
-- FlexiAvatar: Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility
-  : Yihalem Yimolal Tiruneh, Muhammad Salman Ali, **Uyoung Jeong**, Muneeb A. Khan, MD Khalequzzaman Chowdhury Sayem, Allanur Bayramgeldiyev, Binod Bhattarai, Seungryul Baek
-  : ECCV 2026 (accepted)
+<div style="display: flex; flex-wrap: wrap; gap: 1em; align-items: flex-start;">
+<img src="/assets/images/2026_eccv_flexiavatar_thumbnail.png" width="240" alt="FlexiAvatar teaser">
+<div style="flex: 1 1 320px;" markdown="1">
+FlexiAvatar: Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility
+: Yihalem Yimolal Tiruneh, Muhammad Salman Ali, **Uyoung Jeong**, Muneeb A. Khan, MD Khalequzzaman Chowdhury Sayem, Allanur Bayramgeldiyev, Binod Bhattarai, Seungryul Baek
+: ECCV 2026 (accepted)
+: [<del>arxiv</del>]() [<del>code</del>]() [project](https://yihalem1.github.io/FlexiAvatar/)
+</div>
+</div>
 
-- THOM: Generating Physically Plausible Hand-Object Meshes From Text
-  : **Uyoung Jeong**, Yihalem Yimolal Tiruneh, Hyung Jin Chang, Seungryul Baek, Kwang In Kim
-  : CVPR 2026 Findings
-  : [arxiv](https://arxiv.org/abs/2604.02736) [code](https://github.com/uyoung-jeong/THOM_Release) [project](https://uyoung-jeong.github.io/THOM_Project/)
+<div style="display: flex; flex-wrap: wrap; gap: 1em; align-items: flex-start;">
+<video src="/assets/videos/2026_cvprf_thom_thumbnail.mp4" width="240" autoplay loop muted playsinline></video>
+<div style="flex: 1 1 320px;" markdown="1">
+THOM: Generating Physically Plausible Hand-Object Meshes From Text
+: **Uyoung Jeong**, Yihalem Yimolal Tiruneh, Hyung Jin Chang, Seungryul Baek, Kwang In Kim
+: CVPR 2026 Findings
+: [arxiv](https://arxiv.org/abs/2604.02736) [code](https://github.com/uyoung-jeong/THOM_Release) [project](https://uyoung-jeong.github.io/THOM_Project/)
+</div>
+</div>
 
-- PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation
-  : **Uyoung Jeong**, Jonathan Freer, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
-  : CVPR 2025
-  : [arxiv](https://arxiv.org/abs/2505.17475) [code](https://github.com/uyoung-jeong/PoseBH)
+<div style="display: flex; flex-wrap: wrap; gap: 1em; align-items: flex-start;">
+<img src="/assets/images/2025_cvpr_posebh_thumbnail.png" width="240" alt="PoseBH teaser">
+<div style="flex: 1 1 320px;" markdown="1">
+PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation
+: **Uyoung Jeong**, Jonathan Freer, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
+: CVPR 2025
+: [arxiv](https://arxiv.org/abs/2505.17475) [code](https://github.com/uyoung-jeong/PoseBH)
+</div>
+</div>
 
-- BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation
-  : **Uyoung Jeong**, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
-  : BMVC 2023
-  : [arxiv](https://arxiv.org/abs/2309.14072) [code](https://github.com/uyoung-jeong/BoIR)
-
+<div style="display: flex; flex-wrap: wrap; gap: 1em; align-items: flex-start;">
+<img src="/assets/images/2023_bmvc_boir_thumbnail.png" width="240" alt="BoIR teaser">
+<div style="flex: 1 1 320px;" markdown="1">
+BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation
+: **Uyoung Jeong**, Seungryul Baek, Hyung Jin Chang, Kwang In Kim
+: BMVC 2023
+: [arxiv](https://arxiv.org/abs/2309.14072) [code](https://github.com/uyoung-jeong/BoIR)
+</div>
+</div>
 
 ## Professional Experiences
 - Postdoctoral researcher at UVL Lab, UNIST (Prof. Seungryul Baek)
@@ -87,3 +107,12 @@ Robotic vision tasks, including dexterous robot hand detection and pose estimati
 - Ph.D. in Artificial Intelligence, UNIST, South Korea (2025. 08)
 - M.S. in Computer Science and Engineering, UNIST, South Korea (2021. 08)
 - B.S. in Computer Science and Engineering, UNIST, South Korea (2019. 08)
+
+## Personal Projects
+<div style="display: flex; flex-wrap: wrap; gap: 1em; align-items: flex-start;">
+<img src="/assets/images/2026_sd3.5_handpose_controlnet_thumbnail.png" width="240" alt="SD3.5-handpose-controlnet teaser">
+<div style="flex: 1 1 320px;" markdown="1">
+SD3.5 Hand Pose ControlNet
+: [code](https://github.com/uyoung-jeong/sd3.5_handpose_controlnet)
+</div>
+</div>
