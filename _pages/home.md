@@ -14,13 +14,14 @@ sidebar:
 # Uyoung Jeong (정우영)
 
 ## Contact
-* <i class="fas fa-envelope fa-fw"></i> E-mail: jeonguyoung (at) unist.ac.kr
+* <i class="fas fa-envelope fa-fw"></i> E-mail: jeong.uyoung@gmail.com
 * <i class="fab fa-github fa-fw"></i> github: <https://github.com/uyoung-jeong>
 * <i class="fab fa-linkedin fa-fw"></i> linkedin: <https://www.linkedin.com/in/uyoung-jeong>
 * <i class="fas fa-file-pdf fa-fw"></i> CV: [Download](/assets/files/CV.pdf)
 
 ## Short Bio
-I am a postdoctoral researcher at UNIST Vision and Learning Lab (UVLL), UNIST. 
+I will join Prof. Alexander Mathis group at EPFL as a postdoctoral researcher in December 2026.
+I held previous position as a postdoctoral researcher at UNIST Vision and Learning Lab (UVLL), UNIST. 
 I received Ph.D. from UNIST in 2025, under Prof. Kwang In Kim and Prof. Seungryul Baek.
 I received M.S. and B.S. degrees from UNIST.
 
@@ -37,7 +38,7 @@ Robotic vision tasks, including dexterous robot hand detection and pose estimati
 FlexiAvatar: Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility
 : Yihalem Yimolal Tiruneh, Muhammad Salman Ali, **Uyoung Jeong**, Muneeb A. Khan, MD Khalequzzaman Chowdhury Sayem, Allanur Bayramgeldiyev, Binod Bhattarai, Seungryul Baek
 : ECCV 2026 (accepted)
-: [<del>arxiv</del>]() [<del>code</del>]() [project](https://yihalem1.github.io/FlexiAvatar/)
+: [arxiv](https://arxiv.org/abs/2607.19100) [code](https://github.com/yihalem1/FlexiAvatar_Release) [project](https://yihalem1.github.io/FlexiAvatar/)
 </div>
 </div>
 
@@ -73,7 +74,7 @@ BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation
 
 ## Professional Experiences
 - Postdoctoral researcher at UVL Lab, UNIST (Prof. Seungryul Baek)
-  : Duration: 2025. 10 ~
+  : Duration: 2025. 10 ~ 2026. 09
   : Topic: hand-object interaction generation, dexterous robot hand detection and pose estimation
 - Visiting research student at University of Birmingham (Prof. Hyung Jin Chang)
   : Duration: 2024. 09 ~ 2024. 12
